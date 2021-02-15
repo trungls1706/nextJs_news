@@ -7,7 +7,7 @@ export default function Home() {
     <div className='page-container' >
       <Toolbar />
       <div className={styles.main} >
-        <h1>Wellcome to my app</h1>
+        <h1>Wellcome to my app1231231</h1>
       </div>
     </div>
   )
