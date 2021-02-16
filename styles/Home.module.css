@@ -9,3 +9,7 @@
 .listApp {
   margin-left: -200px;
 }
+
+.li:hover {
+  cursor: pointer;
+}

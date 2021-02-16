@@ -16,7 +16,7 @@ export default function Home() {
               </Link>
             </li>
             <li>
-              <Link href="/feed/1">
+              <Link href="/app2">
                 <a>App2</a>
               </Link>
             </li>
