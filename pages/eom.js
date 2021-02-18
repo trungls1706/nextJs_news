@@ -2,7 +2,6 @@ import styles from '../styles/emo.module.css'
 import Toolbar from '../components/toolbar'
 
 export default function Index({ data }) {
-  console.log('data', data)
   return (
     <div className='page-container' >
       <Toolbar />

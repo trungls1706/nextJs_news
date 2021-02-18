@@ -21,7 +21,7 @@ export default function Home() {
               </Link>
             </li>
             <li>
-              <Link href="/blog/hello-world">
+              <Link href="/app3">
                 <a>App3</a>
               </Link>
             </li>
