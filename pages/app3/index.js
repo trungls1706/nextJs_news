@@ -39,6 +39,7 @@ export default function Index({ countries }) {
         <CountriesTable countries={data} />
       </div>
 
+
       <footer className={styles.footer} >
         Powered by Trung
       </footer>
@@ -56,7 +57,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      countries: countries.slice(0, 10)
+      countries: countries.slice(0, 20)
     }
   }
 } 
